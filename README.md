@@ -1,8 +1,2 @@
 # Scraping
-Apenas uma demonstração de um servidor web-scraping em python 3.5
-
-Bibliotecas externas usadas:
-  bs4,
-  lxml,
-  requets
-  
+Demonstração de um servidor web-scraping feito em python utilizando as bibliotecas beautifulsoup4 (bs4), lxml e requets
